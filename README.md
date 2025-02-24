@@ -19,6 +19,6 @@ Here are some projects I've worked on:
 ## 📫 Contact Me
 - LinkedIn: [[Jef Saber](https://www.linkedin.com/in/jef-saber-907974218/)]
 - Email: [jef.saber@hotmail.com](jef.saber@hotmail.com)
-- GitHub: [JefCharbelSaber](https://github.com/jefsaber)
+- GitHub: [Jef Saber](https://github.com/jefsaber)
 
 ⭐️ Feel free to check out my repositories and contribute!
