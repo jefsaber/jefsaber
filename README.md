@@ -8,7 +8,7 @@ Here are some projects I've worked on:
 - [Nour jabr](https://nourjabr.com/) - A Designer website.
 - [Studio Bad Idea](https://studiobadidea.com/) - Design & Branding agency website.
 - [Tarek Sabbouh](https://tareksabbouh.com/) - Portfolio for a professional.
-- [Cachoiera](soon) - Portfolio for 3 Journalists.
+- [Cachoiera](https://cachoeira.me) - Portfolio for 3 journalis
 
 ## 🚀 Skills & Technologies
 - **Frontend:** React.js, HTML, CSS, JavaScript, Bootstrap
