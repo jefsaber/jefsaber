@@ -9,6 +9,7 @@ Here are some projects I've worked on:
 - [Studio Bad Idea](https://studiobadidea.com/) - Design & Branding agency website.
 - [Tarek Sabbouh](https://tareksabbouh.com/) - Portfolio for a professional.
 - [Cachoiera](https://cachoeira.me) - Portfolio for 3 journalis
+- [Medic Devices](https://medicdevices.me) - Medical Devices
 
 ## 🚀 Skills & Technologies
 - **Frontend:** React.js, HTML, CSS, JavaScript, Bootstrap
