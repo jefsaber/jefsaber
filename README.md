@@ -8,8 +8,9 @@ Here are some projects I've worked on:
 - [Nour jabr](https://nourjabr.com/) - A Designer website.
 - [Studio Bad Idea](https://studiobadidea.com/) - Design & Branding agency website.
 - [Tarek Sabbouh](https://tareksabbouh.com/) - Portfolio for a professional.
-- [Cachoiera](https://cachoeira.me) - Portfolio for 3 journalis
+- [Cachoeira](https://cachoeira.me) - Portfolio for 3 journalis
 - [Medic Devices](https://medicdevices.com) - Medical Devices
+- [Romaluce](http://romaluce.coperonbeta.com) - Lighting Company (Worked on it in Coperon)
 
 ## 🚀 Skills & Technologies
 - **Frontend:** React.js, HTML, CSS, JavaScript, Bootstrap
