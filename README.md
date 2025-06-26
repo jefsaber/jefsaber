@@ -5,8 +5,7 @@ I'm a **Full-Stack Developer** with expertise in building scalable web applicati
 
 ## 🌍 My Projects
 Here are some projects I've worked on:
-- [Nour jabr](https://nourjabr.com/) - A Designer website.
-- [Studio Bad Idea](https://studiobadidea.com/) - Design & Branding agency website.
+
 - [Tarek Sabbouh](https://tareksabbouh.com/) - Portfolio for a professional.
 - [Cachoeira](https://cachoeira.me) - Portfolio for 3 journalis
 - [Medic Devices](https://medicdevices.com) - Medical Devices
