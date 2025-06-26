@@ -12,7 +12,7 @@ Here are some projects I've worked on:
 - [Romaluce](http://romaluce.coperonbeta.com) - Lighting Company (Worked on it in Coperon)
 
 ## 🚀 Skills & Technologies
-- **Frontend:** React.js, HTML, CSS, JavaScript, Bootstrap
+- **Frontend:** React.js, NextJs, HTML, CSS, JavaScript, Bootstrap
 - **Backend:** ASP.NET, Node.js, Express, Web Api, Laravel
 - **Databases:** SQL Server, MongoDB
 - **Others:** Git, Docker, WordPress, Shopify, IIS server
